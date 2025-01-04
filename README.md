@@ -1,2 +1,2 @@
-# amazon-clon
+# amazon-clone
 First Project
